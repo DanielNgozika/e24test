@@ -1,0 +1,8 @@
+Let's say "foo" is initially assigned a value of 0.
+
+In myFunctionCall(++foo), the value of foo is incremented by 1 and stored back in the variable.
+So it will be 1. While in myFunctionCall(foo++), the original value of foo is remembered, 
+incremented by 1, and the original value of foo is returned. So, you have 0 as 
+the parameter to myFunctionCall.
+
+However, standalone, ++foo and foo++ are the same.

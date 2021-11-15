@@ -1,0 +1,3 @@
+A very helpful way I've used the spread/rest operator is in maintaining state immutability
+in Redux reducers. Spreading the old state into a new state object and then updating the property
+I needed to change is a simpler way to maintain state immutability than other options available.

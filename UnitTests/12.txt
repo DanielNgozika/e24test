@@ -1,0 +1,2 @@
+I have not experienced any pitfalls using this library. I agree with it's philosophy of 
+testing your apps as your users would use it in the real world.

@@ -1,0 +1,7 @@
+Flexbox is my preferred layout system. It makes it easy to distribute content in a container
+and specify the relationship between them. Thus, creating responsive websites and web apps is
+a lot easier than when using floats.
+
+It is easily my favourite CSS addition in CSS3.
+
+Another option is CSS Grids, but I find myself using Flexbox more often.

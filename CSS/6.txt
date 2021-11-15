@@ -1,0 +1,3 @@
+CSS Specificity is the system in CSS used to determine how a styling overrides another when 
+targeting the same element; where the various CSS selectors and method of styling 
+are assigned specific points.

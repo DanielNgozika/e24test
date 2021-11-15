@@ -1,0 +1,16 @@
+Yes, there is a difference between the regular function syntax and the arrow function syntax.
+
+First, arrow functions never define their own this, whereas regular functions do 
+depending on how they are invoked.
+
+Second, arrow functions do not have their own arguments object, whereas regular functions do.
+
+Also, arrow functions cannot be used as constructors, whereas regular functions can. This means 
+that you can't create new instances of an arrow function using the new keyword.
+
+Other differences include: implicit return in arrow functions if the function body consists 
+of a single expression, while undefined is returned if the return keyword is omitted in regular
+function syntax. Also, due to the class fields proposal, you can use arrow functions to define
+methods on classes and won't need to manually bind 'this' to the class instance. Whereas, you 
+would need to bind 'this' to the class instance if you were to define a method using 
+regular function.

@@ -1,0 +1,4 @@
+My favourite new JavaScript feature is the Rest/Spread Operator. It makes it easy to copy
+and merge arrays and objects, especially where immutability is a concern; unlike previously, 
+when you would achieve the same result with the verbose combination of concat and slice for arrays, 
+or Object.assign for objects.

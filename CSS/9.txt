@@ -1,0 +1,2 @@
+Yes, negative margins are legal and are used to reduce margins of elements where applicable.
+Example, reducing the default margins on p elements.

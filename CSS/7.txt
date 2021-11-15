@@ -1,0 +1,8 @@
+The CSS !important is used to add more specificity to a style rule. Where applied, 
+it overrides other style rules for that specific CSS property on that specific element.
+
+The only way to override an !important rule is to add the !important rule to a declaration
+with the same or higher specificity.
+
+It can be very useful when you're using a UI library and want to add some custom styling. 
+Otherwise, it should be used sparingly. and wisely.
